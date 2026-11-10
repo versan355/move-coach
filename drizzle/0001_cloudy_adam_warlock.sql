@@ -1,0 +1,1 @@
+ALTER TABLE `homework` ADD `notification_attempted_at` integer;
